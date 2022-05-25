@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: #3498DB;
+}
+
+header img {
+    width: 50px;
+}
+
+.iconRating {
+    width: 90px;
+    height: 80px;
+}
+
+.iconMain {
+    width: 80px;
+}
+
+.iconProfile {
+    width: 270px;
+}
+
+.paragraphRating {
+    margin-bottom: 0;
+}
